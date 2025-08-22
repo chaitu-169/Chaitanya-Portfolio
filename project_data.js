@@ -1,7 +1,7 @@
 export const project_data = [
     {
         title: "Job Portal with Recommendation System",
-        image: "jobportal.png",
+        image: "Jobportal.png",
         description:
             "A full-stack web application that connects job seekers with relevant opportunities using an AI-powered recommendation system. Users can create accounts, upload resumes, and receive personalized role suggestions based on their skills. Employers can post jobs, manage listings, and review applicants. The platform includes secure authentication, advanced filtering, and a responsive design for smooth access across devices.",
         badges: ["React", "Express.js", "MongoDB", "Tailwind CSS", "JavaScript", "AI/ML"],
