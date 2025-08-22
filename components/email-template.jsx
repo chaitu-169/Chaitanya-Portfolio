@@ -59,7 +59,7 @@ export const EmailTemplate2 = ({ name }) => (
             borderRadius: "3px",
           }}
         >
-          "Visit My Portfolio"
+          Visit My Portfolio
         </a>
       </section>
       <p style={{ textAlign: "center", color: "#6c757d" }}>
