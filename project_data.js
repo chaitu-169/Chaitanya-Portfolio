@@ -43,6 +43,6 @@ export const project_data = [
             "A comprehensive Learning Management System that enables instructors to create courses, upload materials, and manage student progress. Students can enroll in courses, track completion, and access learning resources. Features include role-based access, dashboards, and interactive learning modules.",
         badges: ["React", "Node.js", "MongoDB", "Express.js", "JavaScript", "Tailwind CSS"],
         github: "https://github.com/chaitu-169/LMS",
-        live: "https://lms-full-stack-portal.vercel.app/",
+        live: "https://lms-platform-wine-psi.vercel.app/",
     }
 ];
