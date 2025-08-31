@@ -1,4 +1,4 @@
-export const project_data = [
+export const project_data = [ 
     {
         title: "Job Portal with Recommendation System",
         image: "Jobportal.png",
@@ -19,7 +19,7 @@ export const project_data = [
         live: "https://loan-approval-dwasm.streamlit.app/",
     },
     {
-        title: "Break-up Recovery Tracker ",
+        title: "Break-up Recovery Tracker",
         image: "breakup.png",
         description:
             "An emotional wellness web application designed to help individuals track and manage their healing journey after a breakup. Users can log their daily emotions, track progress over time, and set personal recovery goals. The platform provides a clean, interactive interface with data visualization to show emotional improvement trends. It focuses on mental well-being through self-reflection and progress tracking.",
@@ -27,4 +27,22 @@ export const project_data = [
         github: "https://github.com/chaitu-169/Breakup-Recovery-Progress-Tracker",
         live: "https://breakup-recovery-progress-tracker-1.onrender.com/",
     },
+    {
+        title: "Dowry Calculator",
+        image: "dowrycalculator.png",
+        description:
+            "A web-based tool to calculate dowry expectations based on social, financial, and educational factors. Users can input relevant parameters to get an estimated dowry range. The system is designed with an intuitive interface and dynamic calculations for better accessibility.",
+        badges: ["React", "JavaScript", "CSS", "HTML"],
+        github: "https://github.com/chaitu-169/Dowry-Calculator",
+        live: "https://dowry-calculator.vercel.app/",
+    },
+    {
+        title: "Learning Management System (LMS)",
+        image: "lms.png",
+        description:
+            "A comprehensive Learning Management System that enables instructors to create courses, upload materials, and manage student progress. Students can enroll in courses, track completion, and access learning resources. Features include role-based access, dashboards, and interactive learning modules.",
+        badges: ["React", "Node.js", "MongoDB", "Express.js", "JavaScript", "Tailwind CSS"],
+        github: "https://github.com/chaitu-169/LMS",
+        live: "https://lms-full-stack-portal.vercel.app/",
+    }
 ];
