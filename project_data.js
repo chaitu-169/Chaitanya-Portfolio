@@ -31,10 +31,10 @@ export const project_data = [
         title: "Dowry Calculator",
         image: "dowrycalculator.png",
         description:
-            "A web-based tool to calculate dowry expectations based on social, financial, and educational factors. Users can input relevant parameters to get an estimated dowry range. The system is designed with an intuitive interface and dynamic calculations for better accessibility.",
+            "A satirical web-based tool that calculates dowry expectations based on social, financial, and educational factors. While it mimics a real calculator, the intent is to highlight the absurdity of the dowry system and spread awareness against this harmful practice through an engaging, thought-provoking interface.",
         badges: ["React", "JavaScript", "CSS", "HTML"],
         github: "https://github.com/chaitu-169/Dowry-Calculator",
-        live: "https://dowry-calculator.vercel.app/",
+        live: "https://dowry-calculator-plum.vercel.app/",
     },
     {
         title: "Learning Management System (LMS)",
