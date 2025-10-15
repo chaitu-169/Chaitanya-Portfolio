@@ -11,7 +11,7 @@ import bgImg from "../public/hero/bg.png";
 
 const Hero = () => {
   const handleDownloadResume = () => {
-    const resumeUrl = "/resume/SS.Chaitanya-Resume.pdf";
+    const resumeUrl = "/resume/SS_Chaitanya-Resume.pdf";
     window.open(resumeUrl, "_blank");
   };
   return (
