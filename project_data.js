@@ -19,24 +19,6 @@ export const project_data = [
         live: "https://loan-approval-dwasm.streamlit.app/",
     },
     {
-        title: "Break-up Recovery Tracker",
-        image: "breakup.png",
-        description:
-            "An emotional wellness web application designed to help individuals track and manage their healing journey after a breakup. Users can log their daily emotions, track progress over time, and set personal recovery goals. The platform provides a clean, interactive interface with data visualization to show emotional improvement trends. It focuses on mental well-being through self-reflection and progress tracking.",
-        badges: ["React", "Express.js", "PostgreSQL", "Tailwind CSS", "JavaScript", "TypeSCript"],
-        github: "https://github.com/chaitu-169/Breakup-Recovery-Progress-Tracker",
-        live: "https://breakup-recovery-progress-tracker-1.onrender.com/",
-    },
-    {
-        title: "Dowry Calculator",
-        image: "dowrycalculator.png",
-        description:
-            "A satirical web-based tool that calculates dowry expectations based on social, financial, and educational factors. While it mimics a real calculator, the intent is to highlight the absurdity of the dowry system and spread awareness against this harmful practice through an engaging, thought-provoking interface.",
-        badges: ["React", "JavaScript", "CSS", "HTML"],
-        github: "https://github.com/chaitu-169/Dowry-Calculator",
-        live: "https://dowry-calculator-plum.vercel.app/",
-    },
-    {
         title: "Learning Management System (LMS)",
         image: "lms.png",
         description:
